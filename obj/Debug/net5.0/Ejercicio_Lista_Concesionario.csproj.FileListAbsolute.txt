@@ -1,0 +1,16 @@
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\bin\Debug\net5.0\Ejercicio_Lista_Concesionario.exe
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\bin\Debug\net5.0\Ejercicio_Lista_Concesionario.deps.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\bin\Debug\net5.0\Ejercicio_Lista_Concesionario.runtimeconfig.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\bin\Debug\net5.0\Ejercicio_Lista_Concesionario.runtimeconfig.dev.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\bin\Debug\net5.0\Ejercicio_Lista_Concesionario.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\bin\Debug\net5.0\ref\Ejercicio_Lista_Concesionario.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\bin\Debug\net5.0\Ejercicio_Lista_Concesionario.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\obj\Debug\net5.0\Ejercicio_Lista_Concesionario.csproj.AssemblyReference.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\obj\Debug\net5.0\Ejercicio_Lista_Concesionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\obj\Debug\net5.0\Ejercicio_Lista_Concesionario.AssemblyInfoInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\obj\Debug\net5.0\Ejercicio_Lista_Concesionario.AssemblyInfo.cs
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\obj\Debug\net5.0\Ejercicio_Lista_Concesionario.csproj.CoreCompileInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\obj\Debug\net5.0\Ejercicio_Lista_Concesionario.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\obj\Debug\net5.0\ref\Ejercicio_Lista_Concesionario.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\obj\Debug\net5.0\Ejercicio_Lista_Concesionario.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Curso Udemy C#\Ejercicio_Lista_Concesionario\obj\Debug\net5.0\Ejercicio_Lista_Concesionario.genruntimeconfig.cache
