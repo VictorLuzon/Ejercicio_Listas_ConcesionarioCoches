@@ -62,8 +62,6 @@ namespace Ejercicio_Lista_Concesionario
             automovil.Add(new Automovil("Seat", "Ibiza", 1300, 1995, "Perla"));
 
             Menu(automovil);
-
-            Console.ReadKey();
         }
 
         static void AñadeAutomovil(List<Automovil> automovil)
